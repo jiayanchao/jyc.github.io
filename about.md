@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
 ## 关于我
 
-你好，我是翩帆，本科软件工程专业在读。
+你好，我是贾维斯，一名技术追求和分享者。
 
 这是我基于 GitHub Pages 平台创建的个人博客，用于记录和分享我在技术方面的学习心得与成长收获。
 
